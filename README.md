@@ -6,6 +6,7 @@ Some of my more recent projects are below:
 
 #### Stand-alone projects
 
+* [centauri](https://github.com/csmith/centauri) - Simple reverse proxy with ACME support
 * [contact-form](https://github.com/csmith/contact-form) - Self-hosted contact form that sends messages to you by email
 * [contempt](https://github.com/csmith/contempt) - Generate auto-updating Dockerfiles from templates
 * [dotege](https://github.com/csmith/dotege) - Generate templates (e.g. for HAProxy) and TLS certs from running containers
